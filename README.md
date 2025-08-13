@@ -76,6 +76,28 @@ Hands-on implementation exercises:
 - **MindQuantum**: Huawei's quantum computing framework
 - **ProjectQ**: Open-source quantum computing framework
 - **Qiskit**: IBM's quantum computing software development kit
+- **D-Wave Ocean SDK**: Quantum annealing framework by D-Wave Systems
+
+## Quantum SDKs by Tutorial Directory
+
+After analyzing the requirements and environment files in each tutorial directory, here are the specific quantum SDKs used:
+
+### Bronze Level
+- **Bronze-MindQuantum**: Uses MindQuantum framework
+- **bronze-projectq**: Uses ProjectQ framework
+- **bronze-qiskit**: Uses Qiskit framework
+
+### Silver Level
+- **silver**: Uses Qiskit, qutip (Quantum Toolbox in Python), and cirq (Google's quantum computing framework)
+- **silver-mindquantum**: Uses MindQuantum framework
+
+### Cobalt Level
+- **cobalt**: Uses D-Wave Ocean SDK for quantum annealing
+
+### Nickel Level
+- **nickel**: Uses Qiskit, qutip (Quantum Toolbox in Python), and cirq (Google's quantum computing framework)
+
+This repository provides a comprehensive learning environment supporting multiple quantum computing frameworks, allowing students to explore different approaches to quantum programming.
 
 ## License Information
 
